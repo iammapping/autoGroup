@@ -1,0 +1,22 @@
+{
+  "name": "autoGroup",
+  "version": "1.0.0",
+  "description": "按照实力均匀分组",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iammapping/autoGroup"
+  },
+  "author": "iammapping <meibing_240@126.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iammapping/autoGroup/issues"
+  },
+  "homepage": "https://github.com/iammapping/autoGroup",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
+}
